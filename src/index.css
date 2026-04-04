@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+:root {
+  --font-display: 5rem;            /* Large hero headings */
+  --font-section-title: 2.25rem;   /* Section titles like “Our Working Process” */
+  --font-sub-title: 1.3rem;        /* Subheadings such as service titles */
+  --font-base-text: 1rem;          /* General paragraph text */
+  --font-secondary-text: 0.875rem; /* Descriptive or supporting text */
+  --font-button-text: 0.9375rem;   /* Button or CTA text */
+  --font-tag-text: 0.75rem;        /* Tags and badge labels */
+}
+
+
+
+
+:root {
+    --font-primary: 'Work Sans', sans-serif; 
+
+
+    
+
+    --color-textWhite: #d1d5db;
+    --color-white: #ffffff;
+    --color-brand: #a4f32e;
+
+  }
+
+
+
+  .card-hover {
+    @apply hover:shadow-lg transition-shadow duration-300;
+  }
+  
