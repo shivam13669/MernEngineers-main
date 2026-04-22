@@ -126,7 +126,7 @@ export default function ContactUs() {
               Address
             </h3>
             <p className="text-secondaryText">
-              Chhatrapati Sambhajinagar, Maharashtra, India 431116
+              91, GK Crystal Home, KL Highway, SAS Nagar, Punjab - 140307
             </p>
           </div>
           <div className="mb-6">
@@ -134,7 +134,7 @@ export default function ContactUs() {
               Contact
             </h3>
             <p className="text-secondaryText font-work">
-              Phone: +91 72640 63562
+              Phone: +91 8709356155
             </p>
             <p className="text-secondaryText font-work">
               Email: khoobneek@gmail.com
@@ -154,7 +154,7 @@ export default function ContactUs() {
             </h3>
             <div className="flex gap-4 mt-2 text-lg">
               <a
-                href="https://www.facebook.com/profile.php?id=100091281086250"
+                href="https://www.facebook.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Facebook"
@@ -162,7 +162,7 @@ export default function ContactUs() {
                 <FaFacebookF />
               </a>
               <a
-                href="https://x.com/pawar_dine52549"
+                href="https://x.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Twitter"
@@ -170,7 +170,7 @@ export default function ContactUs() {
                 <FaTwitter />
               </a>
               <a
-                href="https://github.com/DineshPawar7"
+                href="https://github.com/shivam13669"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Github"
