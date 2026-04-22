@@ -172,7 +172,7 @@ const Footer = () => {
 
       <div className="border-t border-gray-800 py-4 mt-10">
         <div className="container mx-auto px-4 md:px-8 lg:px-12 xl:px-16 flex flex-col md:flex-row justify-between items-center text-sm text-gray-400 gap-4">
-          <p>&copy; 2025 MERN Engineers. All Rights Reserved.</p>
+          <p>&copy; 2026 Khoobneek. All Rights Reserved.</p>
           <div className="flex flex-wrap items-center gap-3">
             <a href="#" className="hover:text-brand">
               User Terms & Conditions
