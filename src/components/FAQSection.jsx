@@ -46,7 +46,7 @@ const FAQSection = () => {
 
   const faqData = [
     {
-      question: "What services does your MERN development agency offer?",
+      question: "What services does your khoobneek offer?",
       answer:
         "We specialize in full-stack web development using the MERN stack (MongoDB, Express.js, React, and Node.js). Our services include custom web application development, API development, e-commerce solutions, and frontend/backend development.",
     },
