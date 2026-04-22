@@ -21,14 +21,14 @@ const Footer = () => {
   const socialIcons = [
     {
       icon: FaFacebookF,
-      link: "https://www.facebook.com/profile.php?id=100091281086250",
+      link: "https://www.facebook.com/",
     },
-    { icon: FaTwitter, link: "https://x.com/pawar_dine52549" },
-    { icon: FaGithubSquare, link: "https://github.com/DineshPawar7" },
-    { icon: FaInstagram, link: "https://www.instagram.com/mernengineers" },
+    { icon: FaTwitter, link: "https://x.com/" },
+    { icon: FaGithubSquare, link: "https://github.com/" },
+    { icon: FaInstagram, link: "https://www.instagram.com/khoobneek" },
     {
       icon: FaLinkedinIn,
-      link: "https://www.linkedin.com/company/mernengineers",
+      link: "https://www.linkedin.com/",
     },
   ];
 
@@ -110,21 +110,21 @@ const Footer = () => {
               Contact
             </h4>
             <ul className="space-y-2 text-baseText font-work text-gray-300">
-              <li>+91 72640 63562</li>
+              <li>+91 8709356155</li>
               <li>
                 <a
-                  href="mernengineers.netlify.app"
+                  href="khoobneek.com"
                   className="hover:text-brand"
                 >
-                  mernengineers.netlify.app
+                  khoobneek.com
                 </a>
               </li>
               <li>
                 <a
-                  href="mailto:dineshpawarr07@gmail.com"
+                  href="mailto:khoobneek@gmail.com"
                   className="hover:text-brand"
                 >
-                  dineshpawarr07@gmail.com
+                  khoobneek@gmail.com
                 </a>
               </li>
               <li>
