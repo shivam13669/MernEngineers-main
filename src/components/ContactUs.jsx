@@ -137,7 +137,7 @@ export default function ContactUs() {
               Phone: +91 72640 63562
             </p>
             <p className="text-secondaryText font-work">
-              Email: work.mernengineers@gmail.com
+              Email: khoobneek@gmail.com
             </p>
           </div>
           <div className="mb-6">
@@ -178,7 +178,7 @@ export default function ContactUs() {
                 <FaGithubSquare />
               </a>
               <a
-                href="https://www.instagram.com/mernengineers"
+                href="https://www.instagram.com/khoobneek"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Instagram"
@@ -186,7 +186,7 @@ export default function ContactUs() {
                 <FaInstagram />
               </a>
               <a
-                href="https://www.youtube.com/@DineshPawar_.07"
+                href=""
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="YouTube"
