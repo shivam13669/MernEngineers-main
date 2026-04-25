@@ -5,9 +5,9 @@ import myPhoto from "../../assets/my-photo.png";
 
 const teamMembers = [
   {
-    name: "Dinesh Pawar",
+    name: "Vivek",
     role: "MERN Stack Developer",
-    img: myPhoto,
+    img: https://avatars.githubusercontent.com/u/187371602?v=4,
     social: [
       { icon: FaLinkedin, link: "https://www.linkedin.com/in/dineshpawar07/" },
       { icon: FaTwitter, link: "https://x.com/pawar_dine52549" },
@@ -22,10 +22,10 @@ const teamMembers = [
     social: [
       {
         icon: FaLinkedin,
-        link: "https://www.linkedin.com/in/shyam-payghan-b26a7b33b",
+        link: "https://www.linkedin.com/",
       },
       { icon: FaTwitter, link: "/" },
-      { icon: FaGithub, link: "https://github.com/shyampgn123" },
+      { icon: FaGithub, link: "https://github.com/" },
       { icon: FaInstagram, link: "/" },
     ],
   },
@@ -34,7 +34,7 @@ const teamMembers = [
     role: "Frontend Developer",
     img: "https://avatars.githubusercontent.com/u/187371602?v=4",
     social: [
-      { icon: FaLinkedin, link: "https://www.linkedin.com/in/vaibhav-pawar08" },
+      { icon: FaLinkedin, link: "https://www.linkedin.com/" },
       { icon: FaTwitter, link: "/" },
       { icon: FaGithub, link: "/" },
       { icon: FaInstagram, link: "/" },
