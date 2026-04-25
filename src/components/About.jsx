@@ -72,7 +72,7 @@ const About = () => {
           <button className="bg-brand text-black px-6 py-2 rounded-full font-semibold font-work flex items-center hover:bg-lime-300 transition">
             Book a Meeting <span className="ml-2 text-xl">→</span>
           </button>
-          <span className="italic text-xl font-script">Vaibhav Pawar</span>
+          <span className="italic text-xl font-script">Khoobneek Team</span>
         </div>
       </div>
     </section>
