@@ -6,6 +6,9 @@ import {
   FaGithubSquare,
   FaInstagram,
   FaLinkedinIn,
+  FaPhone,
+  FaEnvelope,
+  FaMapMarkerAlt,
 } from "react-icons/fa";
 
 const Footer = () => {
@@ -109,17 +112,13 @@ const Footer = () => {
             <h4 className="text-baseText font-semibold text-brand mb-3">
               Contact
             </h4>
-            <ul className="space-y-2 text-baseText font-work text-gray-300">
-              <li>+91 8709356155</li>
-              <li>
-                <a
-                  href="khoobneek.com"
-                  className="hover:text-brand"
-                >
-                  khoobneek.com
-                </a>
+            <ul className="space-y-3 text-baseText font-work text-gray-300">
+              <li className="flex items-center gap-2">
+                <FaPhone size={16} className="text-brand flex-shrink-0" style={{ transform: 'scaleX(-1)' }} />
+                <span>+91 8709356155</span>
               </li>
-              <li>
+              <li className="flex items-center gap-2">
+                <FaEnvelope size={16} className="text-brand flex-shrink-0" />
                 <a
                   href="mailto:khoobneek@gmail.com"
                   className="hover:text-brand"
@@ -127,12 +126,9 @@ const Footer = () => {
                   khoobneek@gmail.com
                 </a>
               </li>
-              <li>
-                Chhatrapati Sambhajinagar
-                <br />
-                Maharashtra, India
-                <br />
-                431116
+              <li className="flex items-start gap-2">
+                <FaMapMarkerAlt size={16} className="text-brand flex-shrink-0 mt-0.5" />
+                <span>91, GK Crystal Home, KL Highway, SAS Nagar, Punjab - 140307</span>
               </li>
             </ul>
           </div>
