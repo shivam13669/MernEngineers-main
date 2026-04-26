@@ -7,7 +7,7 @@ const teamMembers = [
   {
     name: "Vivek",
     role: "MERN Stack Developer",
-    img: https://avatars.githubusercontent.com/u/187371602?v=4,
+    img: "https://avatars.githubusercontent.com/u/187371602?v=4",
     social: [
       { icon: FaLinkedin, link: "https://www.linkedin.com/in/dineshpawar07/" },
       { icon: FaTwitter, link: "https://x.com/pawar_dine52549" },
